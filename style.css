@@ -9,11 +9,11 @@ font-weight: 500}
 
 i {
   font-size: 50px;
-  color: black;
+  color: grey;
 }
 
 i:hover {
-  color: #533E2D;
+  color: #DD0042;
 }
 
 div {
@@ -49,4 +49,15 @@ td {
 #Instagram {
   font-family: 'Dancing Script', cursive;
 
+}
+
+#sidebar {
+  position: fixed;
+  width: 50px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+#page-content {
+  /*margin-left: 10px;*/
 }
