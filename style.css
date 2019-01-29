@@ -1,0 +1,52 @@
+body {
+  color: #575459;
+}
+
+h1 {
+font-family: 'Shadows Into Light', cursive;
+font-size: 50px;
+font-weight: 500}
+
+i {
+  font-size: 50px;
+  color: black;
+}
+
+i:hover {
+  color: #533E2D;
+}
+
+div {
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  background-color: #FFFAF4;
+  border-radius: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  margin-top: 20px;
+}
+
+#profile_picture {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%
+}
+
+#flag {
+  height: 50px;
+  width: 70px;
+  border-radius: 20%
+}
+
+td {
+  padding: 5px;
+  text-align: justify;
+}
+
+#Instagram {
+  font-family: 'Dancing Script', cursive;
+
+}
